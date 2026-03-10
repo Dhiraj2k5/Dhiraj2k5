@@ -79,7 +79,7 @@ A front-end clone of Amazon built using HTML and CSS.
 
 # 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Dhiraj2k5/Dhiraj2k5/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Dhiraj2k5/Dhiraj2k5/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
