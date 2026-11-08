@@ -32,4 +32,4 @@ A Django-based corporate website with template rendering and static asset manage
 ##  Connect
 
 - GitHub: [Dhiraj2k5](https://github.com/Dhiraj2k5)
-- LinkedIn: [Add your LinkedIn profile URL here](https://www.linkedin.com/in/dhiraj-h-71398a2a3/)
+- LinkedIn: (https://www.linkedin.com/in/dhiraj-h-71398a2a3/)
